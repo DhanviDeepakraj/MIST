@@ -1,3 +1,3 @@
 # MIST
-[Site link](http://127.0.0.1:5500/blogcss.html)
+[Site link](https://dhanvideepakraj.github.io/MIST/)
 
