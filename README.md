@@ -1,4 +1,3 @@
 # MIST
-[The new html file](https://github.com/DhanviDeepakraj/MIST/blob/main/blogcss.html)
-[CSS file](https://github.com/DhanviDeepakraj/MIST/blob/main/blog.css)
+[Site link](http://127.0.0.1:5500/blogcss.html)
 
